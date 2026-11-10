@@ -1,7 +1,7 @@
 
-Connect-MgGraph `
--TenantId $TenantId `
--ClientSecretCredential $Credential
+######  Connect-MgGraph `
+######    -TenantId $TenantId `
+######    -ClientSecretCredential $Credential
 
 ###################################################
 # PROJECT : EntraID-AppRegistration-Lab
